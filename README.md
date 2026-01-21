@@ -84,6 +84,9 @@
 
 სავალდებულოა, რომ README.md ფაილში ჩანდეს თქვენი ნამუშევრის ვიზუალური პრევიუ.
 
+![Sophie's Restaurant](./Preview.png)
+url: (https://sophieodd.github.io/POS---pseudo/)
+
 ინსტრუქცია:
 
 გადაიღეთ აწყობილი გვერდის სქრინშოთი.
