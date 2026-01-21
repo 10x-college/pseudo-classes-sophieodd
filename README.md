@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/2rVpS6-W)
 დავალება: CSS Fundamentals – დიზაინის იმპლემენტაცია
 📌 აღწერა
 
@@ -82,6 +83,12 @@
 📄 დოკუმენტაცია (README Requirement)
 
 სავალდებულოა, რომ README.md ფაილში ჩანდეს თქვენი ნამუშევრის ვიზუალური პრევიუ.
+
+![Sophie's Restaurant](./Preview.png)
+<<<<<<< HEAD
+url: (https://sophieodd.github.io/POS---pseudo/)
+=======
+>>>>>>> 524107f574c16d29538804cf69735b6d9f80207e
 
 ინსტრუქცია:
 
